@@ -24,9 +24,7 @@ Insights: Identify trends, outliers, and patterns in the data through Power BIâ€
 Instructions
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+
 Load the Data in Excel:
 
 Open the RS_Session_256_AU_1634_2.csv file in Excel for analysis.
